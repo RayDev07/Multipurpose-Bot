@@ -82,6 +82,7 @@ Feel free to customize the file paths or configuration details as needed. This s
 - **GitHub Repository**: [https://github.com/RayDev07/Multipurpose-Bot.git](https://github.com/RayDev07/Multipurpose-Bot.git)
 - **Codesandbox**: []
 - **Invite the Bot**: [Link to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=)
+- **Youtube**: [Gamer CodeX](https://youtube.com/@GamerCodeX)
 
 ## Support
 
