@@ -79,21 +79,21 @@ Feel free to customize the file paths or configuration details as needed. This s
 
 ## Links
 
-- **GitHub Repository**: [https://github.com/ashhead/Multipurpose-Bot-V5.git](https://github.com/ashhead/Multipurpose-Bot-V5.git)
+- **GitHub Repository**: [https://github.com/RayDev07/Multipurpose-Bot.git](https://github.com/RayDev07/Multipurpose-Bot.git)
 - **Codesandbox**: []
-- **Invite the Bot**: [Link to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1071808240981127258)
+- **Invite the Bot**: [Link to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=)
 
 ## Support
 
 If you encounter any issues or have any questions, please feel free to open an issue on GitHub or join our support server on Discord.
 
-- **GitHub Issues**: [https://github.com/ashhead/Multipurpose-Bot-V5/issues](https://github.com/ashhead/Multipurpose-Bot-V5/issues)
-- **Discord Support Server**: [Invite Link to Support Server](https://discord.gg/encoders)
+- **GitHub Issues**: [https://github.com/RayDev07/Multipurpose-Bot/issues](https://github.com/RayDev07/Multipurpose-Bot/issues)
+- **Discord Support Server**: [Invite Link to Support Server](https://dsc.gg/codexdev)
 
 ## Authors
 
-- **Ash3r** - *Initial work* - [ashhead](https://github.com/ashhead)
-- **Contributors** - [List of contributors](https://github.com/ashhead/Multipurpose-Bot-V5/graphs/contributors)
+- **RayDev** - *Initial work* - [ashhead](https://github.com/RayDev07)
+- **Contributors** - [List of contributors](https://github.com/RayDev07/Multipurpose-Bot/graphs/contributors)
 
 ## License
 
