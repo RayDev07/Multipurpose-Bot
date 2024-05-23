@@ -1,0 +1,16 @@
+{
+    "guilds": {
+        "1088171869611495434": {
+            "autodel": null,
+            "channel": [],
+            "color": null,
+            "embed": false,
+            "footer": "",
+            "image": "",
+            "message": "<<user.mention>> Welcome To <<server.name>>",
+            "ping": false,
+            "title": "",
+            "thumbnail": ""
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "246469891761111051": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [
+            "1069292189395452085"
+        ],
+        "expire_at": 1717685475
+    },
+    "1083447494219935825": {
+        "tier": "Diamond Tier",
+        "guild_limit": 60,
+        "premium_guilds": [],
+        "expire_at": 1726000015
+    }
+}
