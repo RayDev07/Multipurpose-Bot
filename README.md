@@ -1,7 +1,5 @@
 # Multipurpose V5 Discord Bot
 
-![Made With ♥ By Team Encoders](https://images-ext-1.discordapp.net/external/0hS92G9lV4cS2eQz9Fgci136sXDpH42K-Uiz3xTzCq4/https/i.imgur.com/6CejBZ9.jpg?format=webp&width=814&height=458)
-
 ## What is Multipurpose V5?
 
 **V5** is a versatile and powerful Discord bot designed to enhance your server experience with a wide range of features including moderation, music, fun commands, and more. Built with scalability and customization in mind, V5 aims to be your go-to bot for managing and engaging your Discord community.
