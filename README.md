@@ -29,8 +29,8 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ashhead/Multipurpose-Bot-V5.git
-   cd Multipurpose-Bot-V5
+   git clone https://github.com/RayDev07/Multipurpose-Bot.git
+   cd Multipurpose-Bot
    ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
@@ -50,7 +50,7 @@
      ```json
      {
         "OWNER_IDS": [
-            166692371981926400
+            870179991462236170
         ],
         "TOKEN": "BOT-TOKEN-HERE",
         "BotName": "Incite",
@@ -60,7 +60,7 @@
         "statusText": ".help",
         "EXTENSIONS": ["cogs.events"],
         "np": [
-            166692371981926400
+            870179991462236170
         ]
     }
      ```
